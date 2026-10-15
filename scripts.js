@@ -13,7 +13,7 @@ const PLANS = {
     }
   },
   maintain: {
-    label: "steady and balanced",
+    label: "steady and balanced, try like thatgit",
     note: "The goal is variety and consistency rather than restriction — roughly a third protein, a third vegetables, a third whole grains on each plate.",
     meals: {
       breakfast: ["Whole grains or Bread", "A protein source (eggs, yogurt,milk or beans)", "A piece of fruit like orange or aple"],
@@ -22,7 +22,7 @@ const PLANS = {
     }
   },
   trim: {
-    label: "leaning lighter and do sports u are obese",
+    label: "Do some sports and try eating lightly, you are obese",
     note: "The focus is on volume from vegetables and lean protein, with refined carbs and fried foods kept occasional rather than daily.",
     meals: {
       breakfast: ["High-protein option — eggs, Greek yogurt, or cottage cheese", "A small portion of whole grains", "Fresh fruit over juice"],
