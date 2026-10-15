@@ -4,7 +4,7 @@ const result = document.getElementById('result');
 
 const PLANS = {
   build: {
-    label: "building up",
+    label: "Building up and improve your diet",
     note: "The focus is steady, calorie-dense nutrition without relying on empty sugar or fried food.",
     meals: {
       breakfast: ["Whole grain toast or oats", "Eggs, yogurt, or a protein of choice", "Nut butter, avocado, or a handful of nuts", "Fruit or a smoothie"],
@@ -13,7 +13,7 @@ const PLANS = {
     }
   },
   maintain: {
-    label: "steady and balanced, try like thatgit",
+    label: "Steady and balanced, try staying in that form.",
     note: "The goal is variety and consistency rather than restriction — roughly a third protein, a third vegetables, a third whole grains on each plate.",
     meals: {
       breakfast: ["Whole grains or Bread", "A protein source (eggs, yogurt,milk or beans)", "A piece of fruit like orange or aple"],
@@ -22,7 +22,7 @@ const PLANS = {
     }
   },
   trim: {
-    label: "Do some sports and try eating lightly, you are obese",
+    label: "Do some sports and try eating lightly, you are overweight",
     note: "The focus is on volume from vegetables and lean protein, with refined carbs and fried foods kept occasional rather than daily.",
     meals: {
       breakfast: ["High-protein option — eggs, Greek yogurt, or cottage cheese", "A small portion of whole grains", "Fresh fruit over juice"],
